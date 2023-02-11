@@ -19,7 +19,7 @@ public class App
 
 		sum = x + y;
 
-		System.out.println("La somme des deux nombres est : " + sum);
+		System.out.println("La somme des deux nombres saisie est : " + sum);
     }
 
 }	
